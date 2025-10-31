@@ -22,6 +22,7 @@ Em apenas **15 minutos**, a primeira versão foi criada com auxílio da **IA (Ch
 ✅ Clique simples → risca a tarefa (marca como concluída).
 🖱️ Duplo clique → edita o texto.
 ↕️ Arrastar e soltar → reordena as tarefas.
+
 ---
 
 ## 🖥️ Interface
@@ -50,7 +51,7 @@ Em apenas **15 minutos**, a primeira versão foi criada com auxílio da **IA (Ch
 ---
 
 ### 🗑️ Excluindo tarefas
-![print_excluir](./imgs/editaTarefa.png)
+![print_excluir](./imgs/exclui1png.png)
 ![print_excluir](./imgs/Excluido.png)
 
 ---
@@ -72,6 +73,10 @@ Em apenas **15 minutos**, a primeira versão foi criada com auxílio da **IA (Ch
     🧩 Escolha o arquivo: APP_To-do-List-NEON.py
     📦 Marque a opção "One File"
     ▶️ Clique em Convert .py to .exe
+
+5. **Depois de converter pelo auto-py-to-exe**
+    -> O arquivo executavel sera criado na pasta ./output
+    -> Basta executar o arquivo e fazer uso!
 
 ✨ Autor
 Antonio Marcos
