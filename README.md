@@ -1,4 +1,4 @@
-# 🧠 To-Do Neon – Um To-Do List simples, bonito e funcional!
+# 🧠 To-Do-List_Neon – Um To-Do List simples, bonito e funcional!
 
 ## 💡 Sobre o Projeto
 
@@ -27,7 +27,6 @@ Em apenas **15 minutos**, a primeira versão foi criada com auxílio da **IA (Ch
 ## 🖥️ Interface
 
 > Aqui vão as capturas de tela para ilustrar cada ação.  
-> (adicione seus prints nas seções abaixo 👇)
 
 ### ➕ Adicionando uma nova tarefa
 ![print_adicionar](./imgs/addTarefa.png)
