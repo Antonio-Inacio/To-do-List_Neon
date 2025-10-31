@@ -17,6 +17,11 @@ Em apenas **15 minutos**, a primeira versão foi criada com auxílio da **IA (Ch
 ✅ Excluir tarefas com um clique no botão de lixeira  
 ✅ Interface bacana: fundo preto, texto azul neon e fonte "Consolas"
 
+## Principais ações:
+
+✅ Clique simples → risca a tarefa (marca como concluída).
+🖱️ Duplo clique → edita o texto.
+↕️ Arrastar e soltar → reordena as tarefas.
 ---
 
 ## 🖥️ Interface
@@ -25,38 +30,51 @@ Em apenas **15 minutos**, a primeira versão foi criada com auxílio da **IA (Ch
 > (adicione seus prints nas seções abaixo 👇)
 
 ### ➕ Adicionando uma nova tarefa
-![print_adicionar](./prints/add_tarefa.png)
+![print_adicionar](./imgs/addTarefa.png)
 
 ---
 
 ### ✏️ Editando uma tarefa
-![print_editar](./prints/editar_tarefa.png)
+![print_editar](./imgs/editaTarefa.png)
 
 ---
 
 ### ☑️ Marcando como concluída
-![print_marcar](./prints/marcar_tarefa.png)
+![print_marcar](./imgs/marcacomoconcluida.png)
 
 ---
 
 ### 🔄 Reordenando tarefas (arrastar e soltar)
-![print_reordenar](./prints/reordenar_tarefa.png)
+![print_reordenar](./imgs/reordena1.png)
+![print_reordenar](./imgs/reordena2.png)
 
 ---
 
 ### 🗑️ Excluindo tarefas
-![print_excluir](./prints/excluir_tarefa.png)
+![print_excluir](./imgs/editaTarefa.png)
+![print_excluir](./imgs/Excluido.png)
 
 ---
 
 ## 🚀 Como executar
 
 1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/todo-neon.git
-   cd todo-neon
+    ```bash
+    git clone https://github.com/Antonio-Inacio/To-do-List_Neon.git
+    cd To-do-List_Neon
 
+2. ```bash
+    pip install auto-py-to-exe
 
+3. ```Execute
+    auto-py-to-exe
+
+4. **Siga os passos:**
+    🧩 Escolha o arquivo: APP_To-do-List-NEON.py
+    📦 Marque a opção "One File"
+    ▶️ Clique em Convert .py to .exe
+
+✨ Autor
 Antonio Marcos
 💻 Analista e entusiasta de tecnologia
 📚 Formando em Ciência da Computação
